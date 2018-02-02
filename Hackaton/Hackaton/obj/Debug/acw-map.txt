@@ -1,0 +1,4 @@
+Hackaton.MainActivity, Hackaton;md53c27a7c91c637143e763688e1cb513fa.MainActivity
+Hackaton.MainActivity, Hackaton, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53c27a7c91c637143e763688e1cb513fa.MainActivity
+Hackaton.MainActivity;md53c27a7c91c637143e763688e1cb513fa.MainActivity
+hackaton.MainActivity;md53c27a7c91c637143e763688e1cb513fa.MainActivity
